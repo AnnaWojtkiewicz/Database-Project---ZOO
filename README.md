@@ -74,5 +74,6 @@ These provide a **fully functional demo** for testing queries and views.
 * Designed for **expandability and real-world simulation**
 * Cleanly organized to support interface development
 
+## 📂 Project Structure
 
 The project includes two SQL files that together create the database: one defines the structure of the tables, and the other contains sample data for testing and demonstration purposes. Additionally, there are two R scripts that build the user interface: one handles the UI layout, and the other manages the server-side logic for rendering outputs and handling user input.
